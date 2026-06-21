@@ -8,7 +8,7 @@ const projects = [
   },
   {
     name: "opera-es-el-trica",
-    desc: "Ferramenta operacional otimizada para fluxos de trabalho e gerenciamento de redes elétricas — desenvolvida para suporte em campo.",
+    desc: "Ferramenta operacional otimizada para fluxos de trabalho e gerenciamento de redes elétricas - desenvolvida para suporte em campo.",
     lang: "HTML/CSS",
     url: "https://alexandremit61-max.github.io/opera-es-el-trica/"
   },
