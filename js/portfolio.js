@@ -1,10 +1,10 @@
 /* ====== LINKS DE PRODUÇÃO REAIS (.github.io) ====== */
 const projects = [
   {
-    name: "SmallLink-Pro",
-    desc: "Encurtador de URLs profissional com suporte a slugs personalizados e arquitetura pronta para análise de dados analíticos.",
+    name: "cauculando-autonomia-bateria",
+    desc: "Calculadora profissional de autonomia para sistemas de baterias de Lítio e Estacionárias (48V) com interface SPA e animações modernas.",
     lang: "JavaScript",
-    url: "https://alexandremit61-max.github.io/SmallLink-Pro/"
+    url: "https://alexandremit61-max.github.io/cauculando-autonomia-bateria/"
   },
   {
     name: "opera-es-el-trica",
@@ -29,6 +29,12 @@ const projects = [
     desc: "Segunda iteração da plataforma operacional IMOC focada no acompanhamento analítico e monitoramento técnico.",
     lang: "JavaScript",
     url: "https://alexandremit61-max.github.io/imoc-v2-brisanet/"
+  },
+  {
+    name: "SmallLink-Pro",
+    desc: "Encurtador de URLs profissional com suporte a slugs personalizados e arquitetura pronta para análise de dados analíticos.",
+    lang: "JavaScript",
+    url: "https://alexandremit61-max.github.io/SmallLink-Pro/"
   },
   {
     name: "PLANO-DE-TREINO",
